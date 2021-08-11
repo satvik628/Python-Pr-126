@@ -78,3 +78,4 @@ export default class PickImage extends React.Component {
       }
     };
 }
+
